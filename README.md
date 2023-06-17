@@ -1,5 +1,5 @@
 Project Name
-(github_final_project)
+((github_final_project))
 
 Table of Contents
 General Info
